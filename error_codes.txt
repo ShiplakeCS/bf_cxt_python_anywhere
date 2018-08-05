@@ -1,0 +1,14 @@
+Error codes returned by API
+
+101: No participant found to match specified ID
+102: Participant login failed
+103: Participant not active, login not permitted. Reset participant's 'Active' status to 1 if they should be able to login.
+
+201: Project Not Found. No Project with matching ID found.
+
+301: Consultant Not Found. No consultant with matching ID found.
+
+401: Client Not Found. No client with matching ID found.
+
+501: Moment media bad format.
+502: Moment media upload - no files uploaded.
